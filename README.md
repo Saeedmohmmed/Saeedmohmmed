@@ -4,5 +4,3 @@
 <p align="center">
 I am a data engineer from egypt
 </p>
-
-**🌱 Currently looking for a data engineer opportunity:**
